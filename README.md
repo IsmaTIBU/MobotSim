@@ -52,7 +52,7 @@ To get started with MoBot, follow these steps:
 ---
 ##  Documentation
 
-For more technical informations, please refer to the [documentation folder](https://github.com/OlivierCrt/MobotSim/blob/main/Documentation_G4.zip)
+For more technical informations, please refer to the [documentation folder](https://github.com/IsmaTIBU/MobotSim/blob/main/Documentation_G4.zip)
  in this repository. Just extract and open index.html.
 
 ---
