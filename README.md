@@ -24,6 +24,7 @@ MoBot offers three core functionalities:
 2. **Text Processing**
    - Interprets user text commands and deduces the corresponding actions to be performed by the robot.
       -  Languages : French, Spanish
+      -  Sending a matrix of actions and parameters to the "movement simulation" part of the program
 
 3. **Robot Movement Simulation**
    - Simulates robot movements in a virtual environment based on the image and text input data.
