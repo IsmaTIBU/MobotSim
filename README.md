@@ -1,5 +1,3 @@
-## This repository is a clone of the project I originally created in collaboration with my colleague [OlivierCrt](https://github.com/OlivierCrt/MobotSim), hosted in his repository.
-
 #  MoBotSim - Mobile Robot Simulation
 
 This project is designed to simulate a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
