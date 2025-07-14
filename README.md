@@ -1,8 +1,7 @@
 [Clickez ici pour lire le document traduit au français](fr_README.md)
 
 #  MoBotSim - Mobile Robot Simulation
-
-This project is designed to simulate a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
+### *For a more complete overview of my work, visit my portfolio at [imonge.es](https://imonge.es/proyecto/4?lang=en).*
 
 > **Note**: This is the first phase of a larger project, with the ultimate goal of implementing these functions on a real robot by the end of the year.
 
