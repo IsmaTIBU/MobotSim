@@ -1,6 +1,6 @@
 #  MoBotSim - Simulation de Robot Mobile
-Ce projet est conçu pour simuler un robot mobile, fournissant des fonctionnalités d'analyse d'image, de traitement de commandes textuelles et de simulation de mouvement de robot dans un environnement virtuel.
-> **Note** : Ceci est la première phase d'un projet plus large, avec l'objectif ultime d'implémenter ces fonctions sur un vrai robot d'ici la fin de l'année.
+### *Pour un aperçu plus complet de mon travail, visitez mon portfolio sur [imonge.es](https://imonge.es/proyecto/4?lang=fr).*
+> **Remarque** : Ceci est la première phase d'un projet plus large, avec l'objectif ultime d'implémenter ces fonctions sur un vrai robot d'ici la fin de l'année.
 ---
 ##  Aperçu
 MoBot vise à aider à analyser l'environnement du robot et à répondre aux commandes textuelles de l'utilisateur, tout en simulant ses mouvements. Nous utilisons une base de données d'images fournie dans les spécifications. Le programme a besoin d'une image .png et d'une conversion de cette image en .txt (vérifiez le dossier images)
