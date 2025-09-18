@@ -7,7 +7,8 @@
 #  MoBotSim - Mobile Robot Simulation
 ### *For a more complete overview of my work, visit my portfolio at [imonge.es](https://imonge.es/proyecto/4?lang=en).*
 
-> **Note**: This is the first phase of a larger project, with the ultimate goal of implementing these functions on a real robot by the end of the year.
+> [!Note]
+> This is the first phase of a larger project, with the ultimate goal of implementing these functions on a real robot by the end of the year.
 
 ---
 
